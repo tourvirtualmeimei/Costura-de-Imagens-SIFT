@@ -1,5 +1,5 @@
 
-# 🧵 Stitcher de Imagens com OpenCV - Bercário
+# 🧵 Stitcher de Imagens com OpenCV
 
 **Autores:**  
 Bruna dos Santos Freitas  
@@ -52,11 +52,11 @@ Ele foi desenvolvido como parte do processo de geração de imagens 360° para o
 
 ## 🚀 Como Executar
 
-1. Coloque as imagens na pasta `./pics/Bercario/`
+1. Coloque as imagens na pasta `./pics/`
 2. Execute o script com Python:
 
 ```bash
-python stitch_bercario.py
+python Costura_Imagens_SIFT_TCC_Meimei.py
 ```
 
 3. A imagem panorâmica final será salva como `bercario.jpeg` na raiz do projeto.
